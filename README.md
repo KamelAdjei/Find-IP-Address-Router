@@ -21,5 +21,5 @@ How to Find your Router's IP Address
 _Information for any wired and wireless adapters, the system’s IPv4 and IPv6 IP addresses, and the IP address for the system’s Default Gateway which is our **Router**._
 
 <p align="center">
-  <img src="https://github.com/KamelAdjei/Find-IP-Address-Router/assets/34016698/8f454ad8-a041-4326-b4a5-c7ee48852322" alt="ipconfig"/>
+  <img src=" " alt="ipconfig"/>
 </p>
